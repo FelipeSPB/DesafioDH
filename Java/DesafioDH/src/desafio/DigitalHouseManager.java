@@ -128,11 +128,11 @@ public class DigitalHouseManager {
                     if (professorCandidato.getCodigoProfessor().equals(codigoProfessorTitular)){
                         ProfessorTitular profAlocado = (ProfessorTitular) professorCandidato;
                         this.cursos.get(i).setProfessorTitular(profAlocado);
-                        System.out.println("Professor Titular Alocado");}
+                        }
                     else if (professorCandidato.getCodigoProfessor().equals(codigoProfessorAdjunto)){
                         ProfessorAdjunto profAlocado = (ProfessorAdjunto) professorCandidato;
                         this.cursos.get(i).setProfessorAdjunto(profAlocado);
-                        System.out.println("Professor Adjunto Alocado");
+
                     }
                 }
 

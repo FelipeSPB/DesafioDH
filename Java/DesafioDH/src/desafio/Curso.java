@@ -31,6 +31,10 @@ public class Curso {
     public void verificarCurso(Curso curso) {
         if (this.codigoCurso == curso.codigoCurso) {
             this.nome = curso.nome;
+            this.alunos = curso.alunos;
+            this.professorAdjunto = curso.professorAdjunto;
+            this.professorTitular = curso.professorTitular;
+            this.qtdMaxAlunos = curso.qtdMaxAlunos;
         }
     }
 
