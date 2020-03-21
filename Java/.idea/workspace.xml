@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f168ca5-cfda-404b-b267-0cb07541c454" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioDH/src/desafio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioDH/src/desafio/Professor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kotlin/src/desafio/Professor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/src/desafio/Professor.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

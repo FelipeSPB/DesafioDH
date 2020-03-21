@@ -1,6 +1,6 @@
 package desafio;
 
-public abstract class Professor {
+public class Professor {
 
     private String nome;
     private String sobrenome;
