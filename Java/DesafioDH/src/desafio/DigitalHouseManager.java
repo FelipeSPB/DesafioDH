@@ -89,7 +89,7 @@ public class DigitalHouseManager {
 
     }
 
-    public void matricularAlunoCod(Integer codigoAluno, Integer codigoCurso) {
+    public void matricularAluno(Integer codigoAluno, Integer codigoCurso) {
         Integer indexCurso = null;
         Integer indexPretendente = null;
         for (Curso index : this.cursos) {

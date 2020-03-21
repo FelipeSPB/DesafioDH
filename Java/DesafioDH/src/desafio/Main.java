@@ -1,10 +1,5 @@
 package desafio;
 
-import desafio.DigitalHouseManager;
-import desafio.Professor;
-import desafio.ProfessorTitular;
-import desafio.Matricula;
-
 public class Main {
     public static void main(String[] args) {
         DigitalHouseManager run = new DigitalHouseManager();
@@ -21,11 +16,11 @@ public class Main {
         run.matricularAluno("Natsu","Dragneel",3);
         run.matricularAluno("Grey","Fullbuster",4);
         run.matricularAluno("Lucy","Heartfilia",5);
-        run.matricularAlunoCod(1,20001);
-        run.matricularAlunoCod(2,20002);
-        run.matricularAlunoCod(3,20003);
-        run.matricularAlunoCod(4,20002);
-        run.matricularAlunoCod(5,20002);
+        run.matricularAluno(1,20001);
+        run.matricularAluno(2,20002);
+        run.matricularAluno(3,20003);
+        run.matricularAluno(4,20002);
+        run.matricularAluno(5,20002);
 
     }
 
